@@ -1,0 +1,17 @@
+[
+    {
+        "Product_name": "flakes",
+        "Product_description" : "A very good snack"
+    },
+
+    {
+        "Product_name": "pie",
+        "Product_description" : "A very good snack"
+    },
+
+    {
+        "Product_name": "starch",
+        "Product_description" : "A very good snack"
+    }
+
+]
